@@ -1,0 +1,3 @@
+Manhã: Estudar
+Tarde: Estudar/Treinar
+Noite: Academia
